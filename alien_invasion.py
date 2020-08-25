@@ -1,5 +1,3 @@
-import sys
-
 import pygame
 
 import game_functions as gf
